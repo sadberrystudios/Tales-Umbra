@@ -5,11 +5,17 @@ Tales Umbra é uma imersiva experiência de RPG desenvolvida para ser jogada dir
 ✨ Recursos
 --------------------------------------------------------------------------------
 Experiência RPG no Terminal: Totalmente baseado em texto, o jogo utiliza comandos e descrições para guiar sua jornada, assim como em Pale Luna.
+
 Narrativa Interativa: A história se desenrola e é moldada pelas suas escolhas e interações, levando você por uma exploração profunda dos acontecimentos que precedem Pale Luna.
+
 Sistema de Salvamento Local: Inclui um sistema opcional de criação de conta que permite salvar seu progresso diretamente no seu dispositivo.
+
 Múltiplos Finais: Suas decisões podem levar a diferentes desfechos. O jogo registra os "Final Ruim", "Final Real", "Final Bom" e "Final Secreto", incentivando a rejogabilidade para desvendá-los todos.
+
 Exploração Dinâmica: Um gerador de mundo procedural cria ambientes únicos e sempre novos, ricamente descritos na tela do seu terminal a cada nova jornada.
+
 Personalização do Terminal: Ajuste as cores de fundo e texto do seu terminal para criar a atmosfera perfeita para sua aventura.
+
 Dicas de Imersão: Receba orientações importantes para garantir a melhor experiência possível, incluindo avisos sobre interrupções no jogo e uso de caracteres.
 
 🚀 Como Jogar
