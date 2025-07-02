@@ -1,7 +1,7 @@
 Tales Umbra 🌙📜
 --------------------------------------------------------------------------------
 
-![logo.png](logo.png)
+![25.jpg](25.jpg)
 
 Tales Umbra é uma imersiva experiência de RPG desenvolvida para ser jogada diretamente no terminal. Este jogo não é apenas uma nova aventura, mas um prelúdio fascinante para o universo de Pale Luna, convidando você a explorar os eventos e os mistérios que antecederam a narrativa original. Prepare-se para desvendar as origens e o passado que moldaram aquele mundo familiar.
 
